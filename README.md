@@ -47,7 +47,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,eclipse,idea,pycharm,vscode,&theme=light)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,kubernetes,obsidian,postman,powershell&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,kubernetes,obsidian,postman,powershell&theme=light)](https://skillicons.dev)
 
 <br>
 
