@@ -29,7 +29,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,javascript,bash,postgres,mysql,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,javascript,postgres,mysql,sqlite&theme=light)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px>  </picture> Data Scientist
 
@@ -47,7 +47,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,eclipse,idea,pycharm,vscode,&theme=light)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,kubernetes,obsidian,postman,powershell&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,kubernetes,obsidian,postman,powershell&theme=light)](https://skillicons.dev)
 
 <br>
 
