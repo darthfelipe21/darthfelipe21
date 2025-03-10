@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :technologist: I am a `Junior` passionate about harnessing data science, computer vision, and AI to unlock innovative solutions and transform the way we see and understand the world.
+- :technologist: I am a passionate about harnessing data science, computer vision, and AI to unlock innovative solutions and transform the way we see and understand the world.
 - :chart_with_upwards_trend: **Currently working as** `Data Science`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=FelipeMartinez&amp;color=EA4335&amp;style=flat-square)](mailto:femartineztorres@gmail.com)
 - :sunglasses: As I always say `"Live the life you will never forget"`
