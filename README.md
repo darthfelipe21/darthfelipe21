@@ -15,7 +15,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://images.credly.com/size/340x340/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" width = 200px></picture>
+<picture> <img align="right" src="https://images.credly.com/size/340x340/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" width = 150px></picture>
 
 - :technologist: I am a passionate about harnessing data science, computer vision, and AI to unlock innovative solutions and transform the way we see and understand the world.
 - :chart_with_upwards_trend: **Currently working as** `Data Science`
