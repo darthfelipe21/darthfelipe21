@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://www.credly.com/badges/53804a39-946c-498c-be8f-18152ff1b9c6/linked_in_profile" alt="Professional Machine Learning Engineer Badge" width="200">
+<img src="https://images.credly.com/size/340x340/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="Professional Machine Learning Engineer Badge" width="200">
 
 <!--h1 without bottom border-->
 
